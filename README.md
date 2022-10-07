@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently learning **CS50: Introduction to Computer Science - Harvard University**
 
-- ✅ All my correct projects are available [here on github](here on github)
+- ✅ All my correct projects are available here on github
 
 - ⚡ Fun fact **I am a biologist.🌿🍄🐠🦔🦜 I love my dog. 🐾**
 
