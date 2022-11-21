@@ -9,7 +9,7 @@
 
 - ✅ All my correct projects are available here on github.
 
-- ⚡ Fun fact **I am a biologist.🌿🍄🐠🦔🦜 I love my dog. 🐾**
+- ⚡ Fun fact: **I am a biologist.🌿🍄🐠🦔🦜 I love my dog. 🐾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
