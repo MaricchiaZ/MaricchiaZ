@@ -1,7 +1,7 @@
 # <h1 align="center">Hello, I'm Maria Clara 🌸</h1>
 <h3 align="center">I am a cadet at School 42 - São Paulo</h3>
 
-- 🖥 I’m currently working on **ft_printf - Escola 42**
+- 🖥 I’m currently working on **fdf - Escola 42**
 
 - 👩🏻‍💻 I’m currently learning **Language c: Software Engineers Training - School 42 (São Paulo - Br)**
 
