@@ -3,7 +3,7 @@
 
 - 🖥 I’m currently working on **Exam Rank03 & Minishell - Escola 42**
 
-- 👩🏻‍💻 I’m currently learning **Language C : Software Engineers Training - School 42 (São Paulo - Br)**
+- 👩🏻‍💻 I’m currently learning **Language C : Software Engineers Training - School 42 (São Paulo - BR)**
 
 - 🎓 I’m currently learning **CS50: Introduction to Computer Science - Harvard University**
 
